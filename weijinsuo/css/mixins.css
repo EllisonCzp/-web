@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.w50-f_right {
+  width: 50%;
+  float: right;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
+  -ms-border-radius: 20px;
+}
